@@ -1,0 +1,154 @@
+{
+ "updated": "2026-11-07T14:39:38.235707+05:30",
+ "status": {
+  "KPRIET": "ok",
+  "The Hindu": "ok",
+  "Times of India": "ok"
+ },
+ "items": {
+  "flash": [
+   {
+    "kind": "kpriet_flash",
+    "title": "AICTE Yashasvi Scholarship Scheme for Students Pursuing Core Engineering Branches",
+    "url": "https://www.kpriet.ac.in/pdf/marquee-head/YASHASVI%20SCHOLARSHIP%20SCHEME%20POSTER.pdf",
+    "published": null
+   },
+   {
+    "kind": "kpriet_flash",
+    "title": "To apply for the Yashasvi Scholarship Scheme, click here.",
+    "url": "https://yashasvi.aicte.gov.in/login.php",
+    "published": null
+   },
+   {
+    "kind": "kpriet_flash",
+    "title": "Education loan is available under the PM Vidyalaxmi Scheme for meritorious students. For more details, click here.",
+    "url": "https://pmvidyalaxmi.co.in/",
+    "published": null
+   },
+   {
+    "kind": "kpriet_flash",
+    "title": "Online students’ Grievance Redressal System on Anna University Web Portal – Circular",
+    "url": "https://www.kpriet.ac.in/pdf/marquee-head/grievence.pdf",
+    "published": null
+   },
+   {
+    "kind": "kpriet_flash",
+    "title": "SBI Platinum Jubilee Asha Scholarship Programme 2026–27 – Applications Invited",
+    "url": "https://www.sbiashascholarship.co.in",
+    "published": null
+   }
+  ],
+  "stories": [
+   {
+    "kind": "kpriet_story",
+    "title": "IGEN GreenDay 2026 Celebration on 04.11.2026 at Rasipalayam Village – Explore Nature, Protect Our Future!",
+    "url": "https://www.kpriet.ac.in/stories/5270/igen-greenday-2026-celebration-on-04112026-at-rasipalayam-village-explore-nature-protect-our-future",
+    "published": "2026-11-04"
+   },
+   {
+    "kind": "kpriet_story",
+    "title": "Post Survey on Splitting Machine for Fine Korai Grass to Weave Very Fine Mats at Rasipalayam Village",
+    "url": "https://www.kpriet.ac.in/stories/5267/post-survey-on-splitting-machine-for-fine-korai-grass-to-weave-very-fine-mats-at-rasipalayam-village",
+    "published": "2026-11-04"
+   },
+   {
+    "kind": "kpriet_story",
+    "title": "IGEN Green Day 2026 – Promote Green, Gift Green",
+    "url": "https://www.kpriet.ac.in/stories/5268/igen-green-day-2026-promote-green-gift-green",
+    "published": "2026-11-04"
+   }
+  ],
+  "events": [
+   {
+    "kind": "kpriet_event",
+    "title": "From Classroom to Industry: Skills for Future Chemical Engineers",
+    "url": "https://www.kpriet.ac.in/happenings/4634/from-classroom-to-industry-skills-for-future-chemical-engineers",
+    "published": "2027-02-27"
+   },
+   {
+    "kind": "kpriet_event",
+    "title": "Green Hydrogen Technologies for a Carbon-Neutral Future",
+    "url": "https://www.kpriet.ac.in/happenings/4635/green-hydrogen-technologies-for-a-carbon-neutral-future",
+    "published": "2027-03-27"
+   }
+  ],
+  "city": [
+   {
+    "kind": "city",
+    "title": "Tamil Nadu’s wildlife conservation initiatives against country-made guns, on AI-based elephant warning system win awards",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-wildlife-conservation-initiatives-on-country-made-gun-surrender-ai-based-elephant-warning-system-bag-awards/article71659572.ece",
+    "published": "2026-11-05",
+    "source": "The Hindu",
+    "score": 3
+   },
+   {
+    "kind": "city",
+    "title": "Statewide signature campaign launched to ‘save govt schools’ in Tamil Nadu",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/statewide-signature-campaign-launched-to-save-govt-schools-in-tamil-nadu/articleshow/135407796.cms",
+    "published": null,
+    "source": "Times of India",
+    "score": 2
+   },
+   {
+    "kind": "city",
+    "title": "Students spread awareness on rainwater harvesting",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/students-spread-awareness-on-rainwater-harvesting/article71666076.ece",
+    "published": "2026-11-04",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
+    "title": "Deepavali shopping exposes Erode’s inadequate road, parking infrastructure",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/deepavali-shopping-exposes-erodes-inadequate-road-parking-infrastructure/article71674019.ece",
+    "published": "2026-11-06",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
+    "title": "Suspected AI-written books, phantom authors and bogus history: Rs 300crore Coimbatore Periyar library procurement under scanner",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/suspected-ai-written-books-phantom-authors-and-bogus-history-300cr-coimbatore-periyar-library-procurement-under-scanner/articleshow/135615899.cms",
+    "published": null,
+    "source": "Times of India",
+    "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "Nearly 460 acre of govt. land reclassified as forest land on Segur Plateau in the Nilgiris for elephant corridor",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/nearly-460-acres-of-govt-land-reclassified-as-forest-land-for-segur-elephant-corridor-in-the-nilgiris/article71666518.ece",
+    "published": "2026-11-04",
+    "source": "The Hindu",
+    "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "Rain-ravaged Mettupalayam-Burliyar stretch to remain closed to traffic for at least 10 more days",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/rain-ravaged-mettupalayam-burliyar-stretch-to-remain-closed-to-traffic-for-at-least-10-more-days/article71671124.ece",
+    "published": "2026-11-05",
+    "source": "The Hindu",
+    "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "Elaborate arrangements in Coimbatore as people prepare for Deepavali celebration; district administration urges public to use green firecrackers",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/elaborate-arrangements-in-coimbatore-as-people-prepare-for-deepavali-celebration/article71670823.ece",
+    "published": "2026-11-05",
+    "source": "The Hindu",
+    "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "Salem district registers 308.20 mm of rainfall",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/salem-district-registers-30820-mm-of-rainfall/article71669357.ece",
+    "published": "2026-11-05",
+    "source": "The Hindu",
+    "score": 1
+   }
+  ]
+ },
+ "quote": {
+  "text": "If you want to shine like a sun, first burn like a sun.",
+  "author": "Dr. A. P. J. Abdul Kalam"
+ }
+}
