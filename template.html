@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="refresh" content="1800">
+<title>BME Board · KPRIET</title>
+<meta name="description" content="Department of Biomedical Engineering, KPRIET – thought for the day, campus news and what's happening around Coimbatore.">
+<meta name="theme-color" content="#0b1730">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Fraunces:ital,opsz,wght@1,9..144,500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --navy:#0b1730; --navy2:#1B345F; --gold:#c9a24b; --gold2:#f0d48f; --ink:#e9eef8; --muted:#9fb0cc;
+  --glass:rgba(255,255,255,.06); --line:rgba(255,255,255,.12); --radius:18px;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{font-family:Inter,system-ui,sans-serif;color:var(--ink);background:var(--navy);min-height:100vh;overflow-x:hidden}
+a{color:inherit;text-decoration:none}
+/* animated aurora background */
+.aurora{position:fixed;inset:-20%;z-index:-2;filter:blur(70px);opacity:.75;pointer-events:none}
+.aurora span{position:absolute;border-radius:50%;mix-blend-mode:screen;animation:drift 26s ease-in-out infinite alternate}
+.aurora span:nth-child(1){width:55vw;height:55vw;left:5%;top:0;background:radial-gradient(circle,#2a5aa8 0,transparent 65%)}
+.aurora span:nth-child(2){width:45vw;height:45vw;right:0;top:15%;background:radial-gradient(circle,#c9a24b 0,transparent 60%);animation-duration:32s;opacity:.55}
+.aurora span:nth-child(3){width:50vw;height:50vw;left:30%;bottom:-10%;background:radial-gradient(circle,#1f8a8a 0,transparent 62%);animation-duration:38s}
+@keyframes drift{0%{transform:translate(0,0) scale(1)}50%{transform:translate(6vw,4vh) scale(1.12)}100%{transform:translate(-5vw,-3vh) scale(.95)}}
+#pulse{position:fixed;inset:0;z-index:-1;pointer-events:none;opacity:.55}
+.wrap{max-width:1200px;margin:0 auto;padding:22px 18px 40px}
+/* header */
+header{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:12px}
+.mark{width:46px;height:46px;border-radius:14px;display:grid;place-items:center;font-weight:800;font-size:.8rem;color:var(--navy);
+  background:linear-gradient(135deg,var(--gold),var(--gold2));box-shadow:0 0 0 1px rgba(255,255,255,.2),0 8px 30px rgba(201,162,75,.35)}
+.brand b{display:block;font-size:1.02rem;letter-spacing:.2px}
+.brand small{color:var(--muted);font-size:.72rem;letter-spacing:.12em;text-transform:uppercase}
+.clock{text-align:right}
+.clock .time{font-size:1.9rem;font-weight:800;letter-spacing:-.02em;font-variant-numeric:tabular-nums;
+  background:linear-gradient(90deg,#fff,var(--gold2));-webkit-background-clip:text;background-clip:text;color:transparent}
+.clock .date{color:var(--muted);font-size:.85rem}
+/* hero quote */
+.hero{margin:26px 0 18px;padding:34px clamp(20px,4vw,48px);border-radius:28px;position:relative;overflow:hidden;
+  background:linear-gradient(135deg,rgba(27,52,95,.75),rgba(11,23,48,.55));border:1px solid var(--line);
+  box-shadow:0 30px 80px rgba(0,0,0,.35),inset 0 1px 0 rgba(255,255,255,.08)}
+.hero::after{content:"";position:absolute;inset:auto -10% -60% auto;width:60%;height:120%;background:radial-gradient(circle,rgba(201,162,75,.25),transparent 60%)}
+.label{font-size:.72rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
+.quote{font-family:Fraunces,Georgia,serif;font-style:italic;font-size:clamp(1.35rem,3.2vw,2.35rem);line-height:1.35;margin:.5rem 0 .8rem;max-width:30ch}
+.quote::before{content:"\201C";color:var(--gold);font-size:1.6em;line-height:0;vertical-align:-.35em;margin-right:.08em}
+.author{color:var(--gold2);font-weight:600}
+.reveal-words span{opacity:0;display:inline-block;transform:translateY(8px);animation:rise .6s forwards}
+@keyframes rise{to{opacity:1;transform:none}}
+/* ticker */
+.ticker{display:flex;align-items:stretch;border-radius:999px;overflow:hidden;background:var(--glass);border:1px solid var(--line);backdrop-filter:blur(8px)}
+.ticker .tag{background:linear-gradient(135deg,var(--gold),var(--gold2));color:var(--navy);font-weight:800;font-size:.72rem;letter-spacing:.14em;
+  text-transform:uppercase;padding:12px 18px;display:flex;align-items:center;gap:8px;white-space:nowrap}
+.ticker .tag i{width:8px;height:8px;border-radius:50%;background:#c8102e;box-shadow:0 0 0 0 rgba(200,16,46,.6);animation:live 1.6s infinite}
+@keyframes live{70%{box-shadow:0 0 0 10px rgba(200,16,46,0)}100%{box-shadow:0 0 0 0 rgba(200,16,46,0)}}
+.viewport{overflow:hidden;flex:1;-webkit-mask-image:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent);mask-image:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent)}
+.track{display:inline-flex;white-space:nowrap;animation:scroll {{TICKER_SECONDS}}s linear infinite}
+.track:hover{animation-play-state:paused}
+.group{display:inline-flex;gap:42px;padding:12px 24px}
+.group a{display:inline-flex;align-items:center;gap:10px;color:#dbe4f5;font-size:.93rem}
+.group a:hover{color:#fff;text-decoration:underline}
+.dot{width:6px;height:6px;border-radius:50%;background:var(--gold)}
+@keyframes scroll{to{transform:translateX(-50%)}}
+/* grid */
+.grid{display:grid;grid-template-columns:1.15fr .85fr;gap:18px;margin-top:18px}
+.panel{background:var(--glass);border:1px solid var(--line);border-radius:var(--radius);padding:18px;backdrop-filter:blur(10px)}
+.panel h2{margin:0 0 12px;font-size:1rem;display:flex;align-items:center;justify-content:space-between}
+.panel h2 span{font-size:.7rem;color:var(--muted);font-weight:500;letter-spacing:.08em;text-transform:uppercase}
+.stack{display:grid;gap:10px}
+.story,.headline,.event{display:flex;gap:12px;align-items:center;padding:12px 14px;border-radius:14px;background:rgba(255,255,255,.035);
+  border:1px solid transparent;transition:transform .25s,border-color .25s,background .25s}
+.story:hover,.headline:hover,.event:hover{transform:translateY(-2px);border-color:rgba(201,162,75,.45);background:rgba(255,255,255,.07)}
+.chip{font-size:.72rem;font-weight:700;color:var(--navy);background:var(--gold2);border-radius:8px;padding:4px 8px;white-space:nowrap}
+.story-title,.headline-title,.event-title{flex:1;font-size:.94rem;line-height:1.35}
+.arrow{color:var(--gold);opacity:.7}
+.cal{min-width:58px;text-align:center;border-radius:12px;padding:6px 4px;background:linear-gradient(160deg,var(--navy2),#0f2040);border:1px solid rgba(201,162,75,.4)}
+.cal b{display:block;font-size:1.35rem;color:var(--gold2)}
+.cal i{font-style:normal;font-size:.65rem;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.countdown{display:block;font-size:.75rem;color:var(--gold);margin-top:3px;font-weight:600}
+.headline{flex-direction:column;align-items:flex-start;gap:4px}
+.src{font-size:.66rem;letter-spacing:.12em;text-transform:uppercase;color:#7fd3d3;font-weight:700}
+.muted{color:var(--muted)} .small{font-size:.76rem}
+footer{margin-top:26px;color:var(--muted);font-size:.78rem;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;border-top:1px solid var(--line);padding-top:14px}
+footer a{text-decoration:underline}
+.reveal{opacity:0;transform:translateY(14px);transition:opacity .7s ease,transform .7s ease}
+.reveal.in{opacity:1;transform:none}
+@media (max-width:860px){.grid{grid-template-columns:1fr}.clock{text-align:left}.ticker .tag span{display:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.reveal,.reveal-words span{opacity:1;transform:none}
+  .track{white-space:normal}.group{flex-wrap:wrap;gap:8px 24px;white-space:normal}.group[aria-hidden]{display:none}#pulse{display:none}}
+</style>
+</head>
+<body>
+<div class="aurora" aria-hidden="true"><span></span><span></span><span></span></div>
+<canvas id="pulse" aria-hidden="true"></canvas>
+<div class="wrap">
+  <header>
+    <div class="brand"><div class="mark">BME</div>
+      <div><b>Biomedical Engineering · KPRIET</b><small>KPR Institute of Engineering and Technology, Coimbatore</small></div></div>
+    <div class="clock"><div class="time" id="time">--:--</div><div class="date" id="date">{{TODAY}}</div></div>
+  </header>
+
+  <section class="hero">
+    <div class="label">✦ Thought for the day</div>
+    <p class="quote reveal-words" id="quote">{{QUOTE_TEXT}}</p>
+    <div class="author">— {{QUOTE_AUTHOR}}</div>
+  </section>
+
+  <div class="ticker" role="region" aria-label="KPRIET flash news">
+    <div class="tag"><i></i><span>KPRIET live</span></div>
+    <div class="viewport"><div class="track">
+      <span class="group">{{TICKER}}</span><span class="group" aria-hidden="true">{{TICKER}}</span>
+    </div></div>
+  </div>
+
+  <div class="grid">
+    <section class="panel">
+      <h2>Stories from campus <span>kpriet.ac.in</span></h2>
+      <div class="stack">{{STORIES}}</div>
+      <h2 style="margin-top:18px">Coming up at KPRIET <span>countdown</span></h2>
+      <div class="stack">{{EVENTS}}</div>
+    </section>
+    <section class="panel">
+      <h2>Around {{CITY_LABEL}} <span>headlines</span></h2>
+      <div class="stack">{{CITY}}</div>
+    </section>
+  </div>
+
+  <footer>
+    <span>Updated {{UPDATED}} · refreshes every hour. Public information only. Headlines link to their publishers (The Hindu, Times of India), and crime or accident news is filtered out.</span>
+    <span>Department of Biomedical Engineering, KPRIET</span>
+  </footer>
+</div>
+<script>
+(function(){
+  // live IST clock
+  var t=document.getElementById('time'),d=document.getElementById('date');
+  function tick(){var n=new Date(),o={timeZone:'Asia/Kolkata'};
+    t.textContent=n.toLocaleTimeString('en-IN',Object.assign({hour:'2-digit',minute:'2-digit',second:'2-digit'},o));
+    d.textContent=n.toLocaleDateString('en-IN',Object.assign({weekday:'long',day:'2-digit',month:'long',year:'numeric'},o));}
+  tick();setInterval(tick,1000);
+  // live countdowns for events
+  document.querySelectorAll('.event[data-date]').forEach(function(el){var ds=el.getAttribute('data-date');if(!ds)return;
+    var days=Math.round((new Date(ds+'T00:00:00+05:30')-new Date(new Date().toLocaleDateString('en-CA',{timeZone:'Asia/Kolkata'})+'T00:00:00+05:30'))/864e5);
+    var c=el.querySelector('.countdown');if(c)c.textContent=days<0?'':days===0?'today':days===1?'tomorrow':'in '+days+' days';});
+  var reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  // word-by-word quote reveal
+  var q=document.getElementById('quote');
+  if(q&&!reduce){var words=q.textContent.trim().split(/\s+/);q.textContent='';
+    words.forEach(function(w,i){var s=document.createElement('span');s.textContent=w+' ';s.style.animationDelay=(0.25+i*0.06)+'s';q.appendChild(s);});}
+  // reveal cards on scroll
+  var io='IntersectionObserver' in window?new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12}):null;
+  document.querySelectorAll('.reveal').forEach(function(el,i){el.style.transitionDelay=(i%8)*60+'ms';io?io.observe(el):el.classList.add('in');});
+  // ECG-style pulse line drifting across the background (biomedical touch)
+  var cv=document.getElementById('pulse');if(!cv||reduce)return;var cx=cv.getContext('2d'),W,H,x=0,pts=[];
+  function size(){W=cv.width=innerWidth*devicePixelRatio;H=cv.height=innerHeight*devicePixelRatio;pts=[];x=0;}
+  size();addEventListener('resize',size);
+  function beat(p){p=p%220;if(p<120)return 0;if(p<130)return -0.08*(p-120);if(p<136)return 0.9*(p-130)/6;if(p<142)return 0.9-1.4*(p-136)/6;if(p<150)return -0.5+0.5*(p-142)/8;if(p<175)return 0.12*Math.sin((p-150)/25*Math.PI);return 0;}
+  function draw(){var base=H*0.78,amp=H*0.09,step=3*devicePixelRatio;
+    for(var k=0;k<3;k++){pts.push(base-beat(x/devicePixelRatio)*amp);x+=step;}
+    var max=Math.ceil(W/step)+2;if(pts.length>max)pts.splice(0,pts.length-max);
+    cx.clearRect(0,0,W,H);var g=cx.createLinearGradient(0,0,W,0);g.addColorStop(0,'rgba(201,162,75,0)');g.addColorStop(1,'rgba(240,212,143,.55)');
+    cx.strokeStyle=g;cx.lineWidth=2*devicePixelRatio;cx.beginPath();
+    var off=W-pts.length*step;pts.forEach(function(y,i){var px=off+i*step;i?cx.lineTo(px,y):cx.moveTo(px,y);});cx.stroke();
+    requestAnimationFrame(draw);}
+  draw();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,194 @@
+{
+  "_note": "Home-page content sources. Editable by the HoD. Quotes rotate one per day. News is fetched from the listed public pages/feeds, cached, and always shown with its source link.",
+  "refresh_hours": 6,
+  "kpriet": {
+    "home_url": "https://www.kpriet.ac.in/",
+    "label": "KPRIET"
+  },
+  "city": {
+    "label": "Coimbatore",
+    "feeds": [
+      {
+        "name": "The Hindu",
+        "url": "https://www.thehindu.com/news/cities/Coimbatore/feeder/default.rss"
+      },
+      {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/rssfeeds/7503091.cms"
+      }
+    ],
+    "show": 6,
+    "prefer_keywords": [
+      "festival",
+      "exhibition",
+      "expo",
+      "fair",
+      "launch",
+      "inaugurat",
+      "technology",
+      "startup",
+      "innovation",
+      "hospital",
+      "medical",
+      "health",
+      "science",
+      "research",
+      "student",
+      "college",
+      "university",
+      "award",
+      "culture",
+      "cultural",
+      "music",
+      "concert",
+      "sports",
+      "marathon",
+      "art",
+      "book",
+      "heritage",
+      "park",
+      "airport",
+      "metro",
+      "industry",
+      "textile",
+      "conference",
+      "summit",
+      "workshop",
+      "museum",
+      "wildlife",
+      "elephant",
+      "nature",
+      "rain",
+      "weather",
+      "temple",
+      "celebrat",
+      "competition",
+      "hackathon"
+    ],
+    "exclude_keywords": [
+      "murder",
+      "arrest",
+      "killed",
+      "kill",
+      "accident",
+      "suicide",
+      "rape",
+      "sexual",
+      "theft",
+      "robbery",
+      "assault",
+      "dead",
+      "death",
+      "died",
+      "body found",
+      "booked",
+      "fraud",
+      "scam",
+      "crime",
+      "police",
+      "court",
+      "jail",
+      "custody",
+      "attack",
+      "stabbed",
+      "drown",
+      "fire kills",
+      "molest",
+      "harass",
+      "ganja",
+      "drug",
+      "smuggl",
+      "bribe",
+      "abuse",
+      "probe",
+      "dies",
+      "dying",
+      "injured",
+      "injur",
+      "clash",
+      "protest"
+    ]
+  },
+  "quotes": [
+    {
+      "text": "Learn thoroughly what should be learnt, and then live by that learning.",
+      "author": "Thirukkural, Kural 391 (translation)"
+    },
+    {
+      "text": "As deep as you dig a well in the sand, so much water springs; as much as you learn, so much wisdom flows.",
+      "author": "Thirukkural, Kural 396 (translation)"
+    },
+    {
+      "text": "Learning is the true wealth that never perishes; all other riches are not wealth.",
+      "author": "Thirukkural, Kural 400 (translation)"
+    },
+    {
+      "text": "Whatever you hear, from whomever, wisdom is to discern the truth in it.",
+      "author": "Thirukkural, Kural 423 (translation)"
+    },
+    {
+      "text": "Those who resolve firmly will achieve what they resolve, just as they resolved it.",
+      "author": "Thirukkural, Kural 666 (translation)"
+    },
+    {
+      "text": "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.",
+      "author": "Dr. A. P. J. Abdul Kalam"
+    },
+    {
+      "text": "Excellence is a continuous process and not an accident.",
+      "author": "Dr. A. P. J. Abdul Kalam"
+    },
+    {
+      "text": "If you want to shine like a sun, first burn like a sun.",
+      "author": "Dr. A. P. J. Abdul Kalam"
+    },
+    {
+      "text": "Arise, awake, and stop not till the goal is reached.",
+      "author": "Swami Vivekananda"
+    },
+    {
+      "text": "Take up one idea. Make that one idea your life.",
+      "author": "Swami Vivekananda"
+    },
+    {
+      "text": "Education is the manifestation of the perfection already in man.",
+      "author": "Swami Vivekananda"
+    },
+    {
+      "text": "The important thing is not to stop questioning.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "Nothing in life is to be feared, it is only to be understood.",
+      "author": "Marie Curie"
+    },
+    {
+      "text": "The best way to predict the future is to invent it.",
+      "author": "Alan Kay"
+    },
+    {
+      "text": "Wherever the art of medicine is loved, there is also a love of humanity.",
+      "author": "Attributed to Hippocrates"
+    },
+    {
+      "text": "Quality is never an accident; it is always the result of intelligent effort.",
+      "author": "John Ruskin"
+    },
+    {
+      "text": "Research is to see what everybody else has seen, and to think what nobody else has thought.",
+      "author": "Albert Szent-Györgyi"
+    },
+    {
+      "text": "Alone we can do so little; together we can do so much.",
+      "author": "Helen Keller"
+    },
+    {
+      "text": "Science is a way of thinking much more than it is a body of knowledge.",
+      "author": "Carl Sagan"
+    },
+    {
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe"
+    }
+  ]
+}
