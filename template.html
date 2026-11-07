@@ -150,9 +150,10 @@ footer a{text-decoration:underline}
   var q=document.getElementById('quote');
   if(q&&!reduce){var words=q.textContent.trim().split(/\s+/);q.textContent='';
     words.forEach(function(w,i){var s=document.createElement('span');s.textContent=w+' ';s.style.animationDelay=(0.25+i*0.06)+'s';q.appendChild(s);});}
-  // reveal cards on scroll
-  var io='IntersectionObserver' in window?new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12}):null;
-  document.querySelectorAll('.reveal').forEach(function(el,i){el.style.transitionDelay=(i%8)*60+'ms';io?io.observe(el):el.classList.add('in');});
+  // staggered fade-in of all cards on load (no scroll dependency, so nothing can stay hidden)
+  document.querySelectorAll('.reveal').forEach(function(el,i){el.style.transitionDelay=(150+i*70)+'ms';});
+  requestAnimationFrame(function(){document.querySelectorAll('.reveal').forEach(function(el){el.classList.add('in');});});
+  setTimeout(function(){document.querySelectorAll('.reveal').forEach(function(el){el.classList.add('in');});},2500);
   // ECG-style pulse line drifting across the background (biomedical touch)
   var cv=document.getElementById('pulse');if(!cv||reduce)return;var cx=cv.getContext('2d'),W,H,x=0,pts=[];
   function size(){W=cv.width=innerWidth*devicePixelRatio;H=cv.height=innerHeight*devicePixelRatio;pts=[];x=0;}
