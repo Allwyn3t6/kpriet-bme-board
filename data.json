@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T14:39:38.235707+05:30",
+ "updated": "2026-11-08T11:32:29.608764+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -83,18 +83,10 @@
    },
    {
     "kind": "city",
-    "title": "Statewide signature campaign launched to ‘save govt schools’ in Tamil Nadu",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/statewide-signature-campaign-launched-to-save-govt-schools-in-tamil-nadu/articleshow/135407796.cms",
+    "title": "Mettupalayam’s Forest College to get incubation centre to make students and unemployed youth silk entrepreneurs",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/mettupalayams-forest-college-to-get-incubation-centre-to-make-students-and-unemployed-youth-silk-entrepreneurs/articleshow/135638340.cms",
     "published": null,
     "source": "Times of India",
-    "score": 2
-   },
-   {
-    "kind": "city",
-    "title": "Students spread awareness on rainwater harvesting",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/students-spread-awareness-on-rainwater-harvesting/article71666076.ece",
-    "published": "2026-11-04",
-    "source": "The Hindu",
     "score": 2
    },
    {
@@ -107,18 +99,26 @@
    },
    {
     "kind": "city",
+    "title": "AI in healthcare explored at Ganga Hospital’s annual oration",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/ai-in-healthcare-explored-at-ganga-hospitals-annual-oration/article71678121.ece",
+    "published": "2026-11-07",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
+    "title": "Jumbo hustle: the transfer of elephants to Tamil Nadu’s temples",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/how-assam-captive-elephants-are-donated-and-transferred-to-tamil-nadu-temples/article71677667.ece",
+    "published": "2026-11-08",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
     "title": "Suspected AI-written books, phantom authors and bogus history: Rs 300crore Coimbatore Periyar library procurement under scanner",
     "url": "https://timesofindia.indiatimes.com/city/coimbatore/suspected-ai-written-books-phantom-authors-and-bogus-history-300cr-coimbatore-periyar-library-procurement-under-scanner/articleshow/135615899.cms",
     "published": null,
     "source": "Times of India",
-    "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "Nearly 460 acre of govt. land reclassified as forest land on Segur Plateau in the Nilgiris for elephant corridor",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/nearly-460-acres-of-govt-land-reclassified-as-forest-land-for-segur-elephant-corridor-in-the-nilgiris/article71666518.ece",
-    "published": "2026-11-04",
-    "source": "The Hindu",
     "score": 1
    },
    {
@@ -148,7 +148,7 @@
   ]
  },
  "quote": {
-  "text": "If you want to shine like a sun, first burn like a sun.",
-  "author": "Dr. A. P. J. Abdul Kalam"
+  "text": "Arise, awake, and stop not till the goal is reached.",
+  "author": "Swami Vivekananda"
  }
 }
