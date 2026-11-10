@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T08:10:11.562506+05:30",
+ "updated": "2026-11-10T10:08:10.672637+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -75,11 +75,11 @@
   "city": [
    {
     "kind": "city",
-    "title": "Tamil Nadu’s wildlife conservation initiatives against country-made guns, on AI-based elephant warning system win awards",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-wildlife-conservation-initiatives-on-country-made-gun-surrender-ai-based-elephant-warning-system-bag-awards/article71659572.ece",
-    "published": "2026-11-05",
-    "source": "The Hindu",
-    "score": 3
+    "title": "Coimbatore govt school students take science experiment to stratosphere",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/coimbatore-govt-school-students-take-science-experiment-to-stratosphere/articleshow/135688646.cms",
+    "published": null,
+    "source": "Times of India",
+    "score": 2
    },
    {
     "kind": "city",
@@ -115,6 +115,14 @@
    },
    {
     "kind": "city",
+    "title": "Devotional music concert in Coimbatore on November 14",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/devotional-music-concert-in-coimbatore-on-november-14/article71682009.ece",
+    "published": "2026-11-09",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
     "title": "Suspected AI-written books, phantom authors and bogus history: Rs 300crore Coimbatore Periyar library procurement under scanner",
     "url": "https://timesofindia.indiatimes.com/city/coimbatore/suspected-ai-written-books-phantom-authors-and-bogus-history-300cr-coimbatore-periyar-library-procurement-under-scanner/articleshow/135615899.cms",
     "published": null,
@@ -123,32 +131,24 @@
    },
    {
     "kind": "city",
-    "title": "Rain-ravaged Mettupalayam-Burliyar stretch to remain closed to traffic for at least 10 more days",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/rain-ravaged-mettupalayam-burliyar-stretch-to-remain-closed-to-traffic-for-at-least-10-more-days/article71671124.ece",
-    "published": "2026-11-05",
+    "title": "Bharathiar University in 711–720 band in QS World University Rankings 2026-27",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/bharathiar-university-in-711720-band-in-qs-world-university-rankings-2026-27/article71674504.ece",
+    "published": "2026-11-06",
     "source": "The Hindu",
     "score": 1
    },
    {
     "kind": "city",
-    "title": "Elaborate arrangements in Coimbatore as people prepare for Deepavali celebration; district administration urges public to use green firecrackers",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/elaborate-arrangements-in-coimbatore-as-people-prepare-for-deepavali-celebration/article71670823.ece",
-    "published": "2026-11-05",
-    "source": "The Hindu",
-    "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "Salem district registers 308.20 mm of rainfall",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/salem-district-registers-30820-mm-of-rainfall/article71669357.ece",
-    "published": "2026-11-05",
+    "title": "Fresh seafood lunch delivery: Karthiyayini@Kovai on Zomato",
+    "url": "https://www.thehindu.com/food/fresh-seafood-lunch-delivery-karthiyayinikovai-on-zomato/article71644663.ece",
+    "published": "2026-11-06",
     "source": "The Hindu",
     "score": 1
    }
   ]
  },
  "quote": {
-  "text": "Take up one idea. Make that one idea your life.",
+  "text": "Education is the manifestation of the perfection already in man.",
   "author": "Swami Vivekananda"
  }
 }
