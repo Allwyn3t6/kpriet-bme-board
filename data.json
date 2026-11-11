@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T10:08:10.672637+05:30",
+ "updated": "2026-11-11T06:45:05.229890+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -41,12 +41,6 @@
   "stories": [
    {
     "kind": "kpriet_story",
-    "title": "IGEN GreenDay 2026 Celebration on 04.11.2026 at Rasipalayam Village – Explore Nature, Protect Our Future!",
-    "url": "https://www.kpriet.ac.in/stories/5270/igen-greenday-2026-celebration-on-04112026-at-rasipalayam-village-explore-nature-protect-our-future",
-    "published": "2026-11-04"
-   },
-   {
-    "kind": "kpriet_story",
     "title": "Post Survey on Splitting Machine for Fine Korai Grass to Weave Very Fine Mats at Rasipalayam Village",
     "url": "https://www.kpriet.ac.in/stories/5267/post-survey-on-splitting-machine-for-fine-korai-grass-to-weave-very-fine-mats-at-rasipalayam-village",
     "published": "2026-11-04"
@@ -55,6 +49,12 @@
     "kind": "kpriet_story",
     "title": "IGEN Green Day 2026 – Promote Green, Gift Green",
     "url": "https://www.kpriet.ac.in/stories/5268/igen-green-day-2026-promote-green-gift-green",
+    "published": "2026-11-04"
+   },
+   {
+    "kind": "kpriet_story",
+    "title": "IGEN GreenDay 2026 Celebration on 04.11.2026 at Rasipalayam Village – Explore Nature, Protect Our Future!",
+    "url": "https://www.kpriet.ac.in/stories/5270/igen-greenday-2026-celebration-on-04112026-at-rasipalayam-village-explore-nature-protect-our-future",
     "published": "2026-11-04"
    }
   ],
@@ -87,14 +87,6 @@
     "url": "https://timesofindia.indiatimes.com/city/coimbatore/mettupalayams-forest-college-to-get-incubation-centre-to-make-students-and-unemployed-youth-silk-entrepreneurs/articleshow/135638340.cms",
     "published": null,
     "source": "Times of India",
-    "score": 2
-   },
-   {
-    "kind": "city",
-    "title": "Deepavali shopping exposes Erode’s inadequate road, parking infrastructure",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/deepavali-shopping-exposes-erodes-inadequate-road-parking-infrastructure/article71674019.ece",
-    "published": "2026-11-06",
-    "source": "The Hindu",
     "score": 2
    },
    {
@@ -144,11 +136,19 @@
     "published": "2026-11-06",
     "source": "The Hindu",
     "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "Bharathiar University issues notifications for filling key posts with regular candidates",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/bharathiar-university-issues-notifications-for-filling-key-posts-with-regular-candidates/article71678638.ece",
+    "published": "2026-11-07",
+    "source": "The Hindu",
+    "score": 1
    }
   ]
  },
  "quote": {
-  "text": "Education is the manifestation of the perfection already in man.",
-  "author": "Swami Vivekananda"
+  "text": "The important thing is not to stop questioning.",
+  "author": "Albert Einstein"
  }
 }
