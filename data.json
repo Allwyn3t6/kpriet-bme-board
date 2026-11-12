@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:45:05.229890+05:30",
+ "updated": "2026-11-12T09:19:45.093231+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -83,17 +83,9 @@
    },
    {
     "kind": "city",
-    "title": "Mettupalayam’s Forest College to get incubation centre to make students and unemployed youth silk entrepreneurs",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/mettupalayams-forest-college-to-get-incubation-centre-to-make-students-and-unemployed-youth-silk-entrepreneurs/articleshow/135638340.cms",
-    "published": null,
-    "source": "Times of India",
-    "score": 2
-   },
-   {
-    "kind": "city",
-    "title": "AI in healthcare explored at Ganga Hospital’s annual oration",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/ai-in-healthcare-explored-at-ganga-hospitals-annual-oration/article71678121.ece",
-    "published": "2026-11-07",
+    "title": "Ideation completed for ₹100-crore private research park in Perundurai",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/ideation-completed-for-100-crore-private-research-park-in-perundurai/article71690668.ece",
+    "published": "2026-11-11",
     "source": "The Hindu",
     "score": 2
    },
@@ -115,40 +107,48 @@
    },
    {
     "kind": "city",
-    "title": "Suspected AI-written books, phantom authors and bogus history: Rs 300crore Coimbatore Periyar library procurement under scanner",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/suspected-ai-written-books-phantom-authors-and-bogus-history-300cr-coimbatore-periyar-library-procurement-under-scanner/articleshow/135615899.cms",
-    "published": null,
-    "source": "Times of India",
-    "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "Bharathiar University in 711–720 band in QS World University Rankings 2026-27",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/bharathiar-university-in-711720-band-in-qs-world-university-rankings-2026-27/article71674504.ece",
-    "published": "2026-11-06",
+    "title": "Avinashi Road gets two more pelican signals at Hope College, Chinniyampalayam",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/avinashi-road-gets-two-more-pelican-signals-at-hope-college-chinniyampalayam/article71690567.ece",
+    "published": "2026-11-11",
     "source": "The Hindu",
     "score": 1
    },
    {
     "kind": "city",
-    "title": "Fresh seafood lunch delivery: Karthiyayini@Kovai on Zomato",
-    "url": "https://www.thehindu.com/food/fresh-seafood-lunch-delivery-karthiyayinikovai-on-zomato/article71644663.ece",
-    "published": "2026-11-06",
+    "title": "CII underlines role of airports for Tamil Nadu to achieve $1.5 trillion economy goal",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/cii-underlines-role-of-airports-for-tamil-nadu-to-achieve-15-trillion-economy-goal/article71690439.ece",
+    "published": "2026-11-11",
     "source": "The Hindu",
     "score": 1
    },
    {
     "kind": "city",
-    "title": "Bharathiar University issues notifications for filling key posts with regular candidates",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/bharathiar-university-issues-notifications-for-filling-key-posts-with-regular-candidates/article71678638.ece",
-    "published": "2026-11-07",
+    "title": "Sewerage project works worth ₹295.44 crore launched in Salem",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/sewage-project-works-worth-29544-crore-launched-in-salem/article71689354.ece",
+    "published": "2026-11-11",
+    "source": "The Hindu",
+    "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "Commuters in Erode endure rain and heat due to lack of bus shelters",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/commuters-in-erode-endure-rain-and-heat-due-to-lack-of-bus-shelters/article71689455.ece",
+    "published": "2026-11-11",
+    "source": "The Hindu",
+    "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "Periyar Arivulagam row: Book purchase order for Tiruchi’s Kamarajar Grand Library cancelled",
+    "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/book-purchase-order-for-kamarajar-grand-library-cancelled/article71686227.ece",
+    "published": "2026-11-11",
     "source": "The Hindu",
     "score": 1
    }
   ]
  },
  "quote": {
-  "text": "The important thing is not to stop questioning.",
-  "author": "Albert Einstein"
+  "text": "Nothing in life is to be feared, it is only to be understood.",
+  "author": "Marie Curie"
  }
 }
