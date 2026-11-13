@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T09:19:45.093231+05:30",
+ "updated": "2026-11-13T07:20:10.557291+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -91,22 +91,6 @@
    },
    {
     "kind": "city",
-    "title": "Jumbo hustle: the transfer of elephants to Tamil Nadu’s temples",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/how-assam-captive-elephants-are-donated-and-transferred-to-tamil-nadu-temples/article71677667.ece",
-    "published": "2026-11-08",
-    "source": "The Hindu",
-    "score": 2
-   },
-   {
-    "kind": "city",
-    "title": "Devotional music concert in Coimbatore on November 14",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/devotional-music-concert-in-coimbatore-on-november-14/article71682009.ece",
-    "published": "2026-11-09",
-    "source": "The Hindu",
-    "score": 2
-   },
-   {
-    "kind": "city",
     "title": "Avinashi Road gets two more pelican signals at Hope College, Chinniyampalayam",
     "url": "https://www.thehindu.com/news/cities/Coimbatore/avinashi-road-gets-two-more-pelican-signals-at-hope-college-chinniyampalayam/article71690567.ece",
     "published": "2026-11-11",
@@ -144,11 +128,27 @@
     "published": "2026-11-11",
     "source": "The Hindu",
     "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "The controversy surrounding procurement of books for Periyar Arivulagam in Coimbatore | Explained",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-controversy-surrounding-procuring-books-for-the-periyar-arivulagam-explained/article71688957.ece",
+    "published": "2026-11-11",
+    "source": "The Hindu",
+    "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "Marudhamalai Road remains ‘dangerous’ for devotees visiting the hill temple",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/marudhamalai-road-remains-dangerous-for-devotees-visiting-the-hill-temple/article71694006.ece",
+    "published": "2026-11-12",
+    "source": "The Hindu",
+    "score": 1
    }
   ]
  },
  "quote": {
-  "text": "Nothing in life is to be feared, it is only to be understood.",
-  "author": "Marie Curie"
+  "text": "The best way to predict the future is to invent it.",
+  "author": "Alan Kay"
  }
 }
