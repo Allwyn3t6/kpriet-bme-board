@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:20:10.557291+05:30",
+ "updated": "2026-11-14T11:55:13.709949+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -61,6 +61,12 @@
   "events": [
    {
     "kind": "kpriet_event",
+    "title": "\"Women's Health & Hygiene\"",
+    "url": "https://www.kpriet.ac.in/happenings/5281/womens-health-hygiene",
+    "published": "2026-11-14"
+   },
+   {
+    "kind": "kpriet_event",
     "title": "From Classroom to Industry: Skills for Future Chemical Engineers",
     "url": "https://www.kpriet.ac.in/happenings/4634/from-classroom-to-industry-skills-for-future-chemical-engineers",
     "published": "2027-02-27"
@@ -88,6 +94,30 @@
     "published": "2026-11-11",
     "source": "The Hindu",
     "score": 2
+   },
+   {
+    "kind": "city",
+    "title": "Forest Department to implement human-wildlife conflict mitigation scheme in 11 villages in Coimbatore district",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/forest-department-to-implement-human-wildlife-conflict-mitigation-scheme-in-11-villages-in-coimbatore-district/article71698867.ece",
+    "published": "2026-11-13",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
+    "title": "Former Anna University V-C E. Balagurusamy conferred with Lifetime Achievement Award",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/former-anna-university-v-c-e-balagurusamy-conferred-with-lifetime-achievement-award/article71698258.ece",
+    "published": "2026-11-13",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
+    "title": "Minister Keerthana joins Children’s Day celebrations at govt school near Krishnagiri",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/minister-keerthana-joins-childrens-day-celebrations-at-govt-school-near-krishnagiri/articleshow/135801812.cms",
+    "published": null,
+    "source": "Times of India",
+    "score": 1
    },
    {
     "kind": "city",
@@ -120,35 +150,11 @@
     "published": "2026-11-11",
     "source": "The Hindu",
     "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "Periyar Arivulagam row: Book purchase order for Tiruchi’s Kamarajar Grand Library cancelled",
-    "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/book-purchase-order-for-kamarajar-grand-library-cancelled/article71686227.ece",
-    "published": "2026-11-11",
-    "source": "The Hindu",
-    "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "The controversy surrounding procurement of books for Periyar Arivulagam in Coimbatore | Explained",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-controversy-surrounding-procuring-books-for-the-periyar-arivulagam-explained/article71688957.ece",
-    "published": "2026-11-11",
-    "source": "The Hindu",
-    "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "Marudhamalai Road remains ‘dangerous’ for devotees visiting the hill temple",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/marudhamalai-road-remains-dangerous-for-devotees-visiting-the-hill-temple/article71694006.ece",
-    "published": "2026-11-12",
-    "source": "The Hindu",
-    "score": 1
    }
   ]
  },
  "quote": {
-  "text": "The best way to predict the future is to invent it.",
-  "author": "Alan Kay"
+  "text": "Wherever the art of medicine is loved, there is also a love of humanity.",
+  "author": "Attributed to Hippocrates"
  }
 }
