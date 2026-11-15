@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:55:13.709949+05:30",
+ "updated": "2026-11-15T08:10:21.777498+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -41,6 +41,12 @@
   "stories": [
    {
     "kind": "kpriet_story",
+    "title": "Awareness Programme on Essay Writing and Quiz Competition on 14.11.2026",
+    "url": "https://www.kpriet.ac.in/stories/5282/awareness-programme-on-essay-writing-and-quiz-competition-on-14112026",
+    "published": "2026-11-14"
+   },
+   {
+    "kind": "kpriet_story",
     "title": "Post Survey on Splitting Machine for Fine Korai Grass to Weave Very Fine Mats at Rasipalayam Village",
     "url": "https://www.kpriet.ac.in/stories/5267/post-survey-on-splitting-machine-for-fine-korai-grass-to-weave-very-fine-mats-at-rasipalayam-village",
     "published": "2026-11-04"
@@ -50,21 +56,9 @@
     "title": "IGEN Green Day 2026 – Promote Green, Gift Green",
     "url": "https://www.kpriet.ac.in/stories/5268/igen-green-day-2026-promote-green-gift-green",
     "published": "2026-11-04"
-   },
-   {
-    "kind": "kpriet_story",
-    "title": "IGEN GreenDay 2026 Celebration on 04.11.2026 at Rasipalayam Village – Explore Nature, Protect Our Future!",
-    "url": "https://www.kpriet.ac.in/stories/5270/igen-greenday-2026-celebration-on-04112026-at-rasipalayam-village-explore-nature-protect-our-future",
-    "published": "2026-11-04"
    }
   ],
   "events": [
-   {
-    "kind": "kpriet_event",
-    "title": "\"Women's Health & Hygiene\"",
-    "url": "https://www.kpriet.ac.in/happenings/5281/womens-health-hygiene",
-    "published": "2026-11-14"
-   },
    {
     "kind": "kpriet_event",
     "title": "From Classroom to Industry: Skills for Future Chemical Engineers",
@@ -81,18 +75,10 @@
   "city": [
    {
     "kind": "city",
-    "title": "Coimbatore govt school students take science experiment to stratosphere",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/coimbatore-govt-school-students-take-science-experiment-to-stratosphere/articleshow/135688646.cms",
+    "title": "Apparel industry sees sign of export revival",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/apparel-industry-sees-sign-of-export-revival/articleshow/135834483.cms",
     "published": null,
     "source": "Times of India",
-    "score": 2
-   },
-   {
-    "kind": "city",
-    "title": "Ideation completed for ₹100-crore private research park in Perundurai",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/ideation-completed-for-100-crore-private-research-park-in-perundurai/article71690668.ece",
-    "published": "2026-11-11",
-    "source": "The Hindu",
     "score": 2
    },
    {
@@ -113,6 +99,22 @@
    },
    {
     "kind": "city",
+    "title": "Awareness workshops on rainwater harvesting systems held in Salem and Namakkal",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/awareness-workshopson-rainwater-harvesting-systems-held-in-salem-and-namakkal/article71701944.ece",
+    "published": "2026-11-14",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
+    "title": "Southern Railway urged to improve rail connectivity from Coimbatore to other parts of Tamil Nadu",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/southern-railway-urged-to-improve-rail-connectivity-from-coimbatore-to-other-parts-of-tamil-nadu/articleshow/135835931.cms",
+    "published": null,
+    "source": "Times of India",
+    "score": 1
+   },
+   {
+    "kind": "city",
     "title": "Minister Keerthana joins Children’s Day celebrations at govt school near Krishnagiri",
     "url": "https://timesofindia.indiatimes.com/city/coimbatore/minister-keerthana-joins-childrens-day-celebrations-at-govt-school-near-krishnagiri/articleshow/135801812.cms",
     "published": null,
@@ -121,40 +123,32 @@
    },
    {
     "kind": "city",
-    "title": "Avinashi Road gets two more pelican signals at Hope College, Chinniyampalayam",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/avinashi-road-gets-two-more-pelican-signals-at-hope-college-chinniyampalayam/article71690567.ece",
-    "published": "2026-11-11",
+    "title": "Marudhamalai Road remains ‘dangerous’ for devotees visiting the hill temple",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/marudhamalai-road-remains-dangerous-for-devotees-visiting-the-hill-temple/article71694006.ece",
+    "published": "2026-11-12",
     "source": "The Hindu",
     "score": 1
    },
    {
     "kind": "city",
-    "title": "CII underlines role of airports for Tamil Nadu to achieve $1.5 trillion economy goal",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/cii-underlines-role-of-airports-for-tamil-nadu-to-achieve-15-trillion-economy-goal/article71690439.ece",
-    "published": "2026-11-11",
+    "title": "Northeast monsoon rain improves water position in Amaravathy and Thirumoorthy dams",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/northeast-monsoon-rain-improves-water-position-in-amaravathy-and-thirumoorthy-dams/article71698945.ece",
+    "published": "2026-11-13",
     "source": "The Hindu",
     "score": 1
    },
    {
     "kind": "city",
-    "title": "Sewerage project works worth ₹295.44 crore launched in Salem",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/sewage-project-works-worth-29544-crore-launched-in-salem/article71689354.ece",
-    "published": "2026-11-11",
-    "source": "The Hindu",
-    "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "Commuters in Erode endure rain and heat due to lack of bus shelters",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/commuters-in-erode-endure-rain-and-heat-due-to-lack-of-bus-shelters/article71689455.ece",
-    "published": "2026-11-11",
+    "title": "2.24 lakh students, teachers and staff in Coimbatore get cakes for Children’s Day",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/224-lakh-students-teachers-and-staff-in-coimbatore-get-cakes-for-childrens-day/article71698975.ece",
+    "published": "2026-11-13",
     "source": "The Hindu",
     "score": 1
    }
   ]
  },
  "quote": {
-  "text": "Wherever the art of medicine is loved, there is also a love of humanity.",
-  "author": "Attributed to Hippocrates"
+  "text": "Quality is never an accident; it is always the result of intelligent effort.",
+  "author": "John Ruskin"
  }
 }
