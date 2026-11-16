@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T08:10:21.777498+05:30",
+ "updated": "2026-11-16T08:14:35.221634+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -47,14 +47,14 @@
    },
    {
     "kind": "kpriet_story",
-    "title": "Post Survey on Splitting Machine for Fine Korai Grass to Weave Very Fine Mats at Rasipalayam Village",
-    "url": "https://www.kpriet.ac.in/stories/5267/post-survey-on-splitting-machine-for-fine-korai-grass-to-weave-very-fine-mats-at-rasipalayam-village",
-    "published": "2026-11-04"
+    "title": "Cyber security Awareness: Industry Trends & Career Insights",
+    "url": "https://www.kpriet.ac.in/stories/5277/cyber-security-awareness-industry-trends-career-insights",
+    "published": "2026-11-13"
    },
    {
     "kind": "kpriet_story",
-    "title": "IGEN Green Day 2026 – Promote Green, Gift Green",
-    "url": "https://www.kpriet.ac.in/stories/5268/igen-green-day-2026-promote-green-gift-green",
+    "title": "IGEN GreenDay 2026 Celebration on 04.11.2026 at Rasipalayam Village – Explore Nature, Protect Our Future!",
+    "url": "https://www.kpriet.ac.in/stories/5270/igen-greenday-2026-celebration-on-04112026-at-rasipalayam-village-explore-nature-protect-our-future",
     "published": "2026-11-04"
    }
   ],
@@ -107,6 +107,30 @@
    },
    {
     "kind": "city",
+    "title": "GEM Hospitals feted for pioneering laparoscopic surgery at its Silver Jubilee celebration",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/gem-hospitals-feted-for-pioneering-laparoscopic-surgery-at-its-silver-jubilee-celebration/article71705578.ece",
+    "published": "2026-11-15",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
+    "title": "New buildings for Rasipuram GH will be inaugurated in four months, says Health Minister",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/new-buildings-for-rasipuram-gh-will-be-inaugurated-in-four-months-says-health-minister/article71704898.ece",
+    "published": "2026-11-15",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
+    "title": "Vanga fox ‘Puthagan’ is the logo for Salem Book Festival",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/vanga-fox-puthagan-is-the-logo-for-salem-book-festival/article71704701.ece",
+    "published": "2026-11-15",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
     "title": "Southern Railway urged to improve rail connectivity from Coimbatore to other parts of Tamil Nadu",
     "url": "https://timesofindia.indiatimes.com/city/coimbatore/southern-railway-urged-to-improve-rail-connectivity-from-coimbatore-to-other-parts-of-tamil-nadu/articleshow/135835931.cms",
     "published": null,
@@ -120,35 +144,11 @@
     "published": null,
     "source": "Times of India",
     "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "Marudhamalai Road remains ‘dangerous’ for devotees visiting the hill temple",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/marudhamalai-road-remains-dangerous-for-devotees-visiting-the-hill-temple/article71694006.ece",
-    "published": "2026-11-12",
-    "source": "The Hindu",
-    "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "Northeast monsoon rain improves water position in Amaravathy and Thirumoorthy dams",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/northeast-monsoon-rain-improves-water-position-in-amaravathy-and-thirumoorthy-dams/article71698945.ece",
-    "published": "2026-11-13",
-    "source": "The Hindu",
-    "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "2.24 lakh students, teachers and staff in Coimbatore get cakes for Children’s Day",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/224-lakh-students-teachers-and-staff-in-coimbatore-get-cakes-for-childrens-day/article71698975.ece",
-    "published": "2026-11-13",
-    "source": "The Hindu",
-    "score": 1
    }
   ]
  },
  "quote": {
-  "text": "Quality is never an accident; it is always the result of intelligent effort.",
-  "author": "John Ruskin"
+  "text": "Research is to see what everybody else has seen, and to think what nobody else has thought.",
+  "author": "Albert Szent-Györgyi"
  }
 }
