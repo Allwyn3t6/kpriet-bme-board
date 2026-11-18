@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T09:59:15.783295+05:30",
+ "updated": "2026-11-18T09:52:50.395157+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -53,12 +53,18 @@
    },
    {
     "kind": "kpriet_story",
-    "title": "IGEN Green Day 2026 – Promote Green, Gift Green",
-    "url": "https://www.kpriet.ac.in/stories/5268/igen-green-day-2026-promote-green-gift-green",
+    "title": "Post Survey on Splitting Machine for Fine Korai Grass to Weave Very Fine Mats at Rasipalayam Village",
+    "url": "https://www.kpriet.ac.in/stories/5267/post-survey-on-splitting-machine-for-fine-korai-grass-to-weave-very-fine-mats-at-rasipalayam-village",
     "published": "2026-11-04"
    }
   ],
   "events": [
+   {
+    "kind": "kpriet_event",
+    "title": "Inaugural Ceremony Industry sponsored Centre of Excellence for Product Development Centre: Vertex",
+    "url": "https://www.kpriet.ac.in/happenings/5301/inaugural-ceremony-industry-sponsored-centre-of-excellence-for-product-development-centre-vertex",
+    "published": "2026-11-25"
+   },
    {
     "kind": "kpriet_event",
     "title": "From Classroom to Industry: Skills for Future Chemical Engineers",
@@ -123,24 +129,24 @@
    },
    {
     "kind": "city",
-    "title": "Why Coimbatore airport’s ₹29cr perimeter wall project remains stalled",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/why-coimbatore-airports-29cr-perimeter-wall-project-remains-stalled/articleshow/135896059.cms",
-    "published": null,
-    "source": "Times of India",
-    "score": 1
+    "title": "Coimbatore startup raises seed funding",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/coimbatore-startup-raises-seed-funding/article71712372.ece",
+    "published": "2026-11-17",
+    "source": "The Hindu",
+    "score": 2
    },
    {
     "kind": "city",
-    "title": "PAP irrigation canal in Tirupur turns into sewage drain; farmers demand action",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/pap-irrigation-canal-in-tirupur-turns-into-sewage-drain-farmers-demand-action/articleshow/135896178.cms",
-    "published": null,
-    "source": "Times of India",
-    "score": 1
+    "title": "10-day Nilgiris Book Festival to begin on November 27",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/10-day-nilgiris-book-festival-to-begin-on-november-27/article71711131.ece",
+    "published": "2026-11-17",
+    "source": "The Hindu",
+    "score": 2
    },
    {
     "kind": "city",
-    "title": "Textbooks not supplied to ‘Thai Thamizh’ schools in Coimbatore, Tirupur districts; teachers say learning hit",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/textbooks-not-supplied-to-thai-thamizh-schools-in-coimbatore-tirupur-districts-teachers-say-learning-hit/articleshow/135894337.cms",
+    "title": "Railways to run Sabarimala special trains via Podanur in Coimbatore",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/railways-to-run-sabarimala-special-trains-via-podanur-in-coimbatore/articleshow/135934286.cms",
     "published": null,
     "source": "Times of India",
     "score": 1
@@ -148,7 +154,7 @@
   ]
  },
  "quote": {
-  "text": "Alone we can do so little; together we can do so much.",
-  "author": "Helen Keller"
+  "text": "Science is a way of thinking much more than it is a body of knowledge.",
+  "author": "Carl Sagan"
  }
 }
