@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:52:50.395157+05:30",
+ "updated": "2026-11-19T09:00:05.992390+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -81,50 +81,26 @@
   "city": [
    {
     "kind": "city",
+    "title": "100-bed critical care block opened at Erode Government Medical College Hospital",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/100-bed-critical-care-block-opened-at-erode-government-medical-college-hospital/article71715163.ece",
+    "published": "2026-11-18",
+    "source": "The Hindu",
+    "score": 3
+   },
+   {
+    "kind": "city",
+    "title": "₹21-crore hostel building inaugurated at Government College of Technology in Coimbatore",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/21-crore-hostel-building-inaugurated-at-government-college-of-technology-in-coimbatore/article71715570.ece",
+    "published": "2026-11-18",
+    "source": "The Hindu",
+    "score": 3
+   },
+   {
+    "kind": "city",
     "title": "Apparel industry sees sign of export revival",
     "url": "https://timesofindia.indiatimes.com/city/coimbatore/apparel-industry-sees-sign-of-export-revival/articleshow/135834483.cms",
     "published": null,
     "source": "Times of India",
-    "score": 2
-   },
-   {
-    "kind": "city",
-    "title": "Awareness workshops on rainwater harvesting systems held in Salem and Namakkal",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/awareness-workshopson-rainwater-harvesting-systems-held-in-salem-and-namakkal/article71701944.ece",
-    "published": "2026-11-14",
-    "source": "The Hindu",
-    "score": 2
-   },
-   {
-    "kind": "city",
-    "title": "GEM Hospitals feted for pioneering laparoscopic surgery at its Silver Jubilee celebration",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/gem-hospitals-feted-for-pioneering-laparoscopic-surgery-at-its-silver-jubilee-celebration/article71705578.ece",
-    "published": "2026-11-15",
-    "source": "The Hindu",
-    "score": 2
-   },
-   {
-    "kind": "city",
-    "title": "New buildings for Rasipuram GH will be inaugurated in four months, says Health Minister",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/new-buildings-for-rasipuram-gh-will-be-inaugurated-in-four-months-says-health-minister/article71704898.ece",
-    "published": "2026-11-15",
-    "source": "The Hindu",
-    "score": 2
-   },
-   {
-    "kind": "city",
-    "title": "Vanga fox ‘Puthagan’ is the logo for Salem Book Festival",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/vanga-fox-puthagan-is-the-logo-for-salem-book-festival/article71704701.ece",
-    "published": "2026-11-15",
-    "source": "The Hindu",
-    "score": 2
-   },
-   {
-    "kind": "city",
-    "title": "Therukoothu workshop in Coimbatore: Learn the folk art form from seasoned artistes",
-    "url": "https://www.thehindu.com/society/therukoothu-workshop-in-coimbatore-learn-the-folk-art-form-from-seasoned-artistes/article71697051.ece",
-    "published": "2026-11-16",
-    "source": "The Hindu",
     "score": 2
    },
    {
@@ -145,8 +121,32 @@
    },
    {
     "kind": "city",
+    "title": "Forest Department finds steel wire fence effective in reducing human-elephant conflict",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/forest-department-finds-steel-wire-fence-effective-in-reducing-human-elephant-conflict-in-coimbatore/article71715936.ece",
+    "published": "2026-11-18",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
+    "title": "Showroom ruckus costs TVK functionary his post: Party removes Vadavalli secretary Prakash permanently",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/showroom-ruckus-costs-tvk-functionary-his-post-vijays-party-removes-vadavalli-secretary-prakash-permanently/articleshow/135965883.cms",
+    "published": null,
+    "source": "Times of India",
+    "score": 1
+   },
+   {
+    "kind": "city",
     "title": "Railways to run Sabarimala special trains via Podanur in Coimbatore",
     "url": "https://timesofindia.indiatimes.com/city/coimbatore/railways-to-run-sabarimala-special-trains-via-podanur-in-coimbatore/articleshow/135934286.cms",
+    "published": null,
+    "source": "Times of India",
+    "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "Bharathiar University to hold faculty promotion interviews",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/bharathiar-university-to-hold-faculty-promotion-interviews/articleshow/135932656.cms",
     "published": null,
     "source": "Times of India",
     "score": 1
@@ -154,7 +154,7 @@
   ]
  },
  "quote": {
-  "text": "Science is a way of thinking much more than it is a body of knowledge.",
-  "author": "Carl Sagan"
+  "text": "Start where you are. Use what you have. Do what you can.",
+  "author": "Arthur Ashe"
  }
 }
