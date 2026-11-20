@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T09:00:05.992390+05:30",
+ "updated": "2026-11-20T08:47:40.649543+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -129,24 +129,24 @@
    },
    {
     "kind": "city",
+    "title": "Additional classrooms, laboratories commissioned in LRG Arts College for Women in Tiruppur",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/additional-classrooms-laboratories-commissioned-in-lrg-arts-college-for-women-in-tiruppur/article71721281.ece",
+    "published": "2026-11-19",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
+    "title": "Academia–industry conclave in Erode to promote research collaboration",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/academiaindustry-conclave-in-erode-to-promote-research-collaboration/article71719649.ece",
+    "published": "2026-11-19",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
     "title": "Showroom ruckus costs TVK functionary his post: Party removes Vadavalli secretary Prakash permanently",
     "url": "https://timesofindia.indiatimes.com/city/coimbatore/showroom-ruckus-costs-tvk-functionary-his-post-vijays-party-removes-vadavalli-secretary-prakash-permanently/articleshow/135965883.cms",
-    "published": null,
-    "source": "Times of India",
-    "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "Railways to run Sabarimala special trains via Podanur in Coimbatore",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/railways-to-run-sabarimala-special-trains-via-podanur-in-coimbatore/articleshow/135934286.cms",
-    "published": null,
-    "source": "Times of India",
-    "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "Bharathiar University to hold faculty promotion interviews",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/bharathiar-university-to-hold-faculty-promotion-interviews/articleshow/135932656.cms",
     "published": null,
     "source": "Times of India",
     "score": 1
@@ -154,7 +154,7 @@
   ]
  },
  "quote": {
-  "text": "Start where you are. Use what you have. Do what you can.",
-  "author": "Arthur Ashe"
+  "text": "Learn thoroughly what should be learnt, and then live by that learning.",
+  "author": "Thirukkural, Kural 391 (translation)"
  }
 }
