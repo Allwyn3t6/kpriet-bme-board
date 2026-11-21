@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T08:47:40.649543+05:30",
+ "updated": "2026-11-21T07:46:13.031877+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -81,6 +81,14 @@
   "city": [
    {
     "kind": "city",
+    "title": "Call to operate special trains to Tiruvannamalai for Karthigai Deepam festival",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/call-to-operate-special-trains-to-tiruvannamalai-for-karthigai-deepam-festival/article71724487.ece",
+    "published": "2026-11-20",
+    "source": "The Hindu",
+    "score": 3
+   },
+   {
+    "kind": "city",
     "title": "100-bed critical care block opened at Erode Government Medical College Hospital",
     "url": "https://www.thehindu.com/news/cities/Coimbatore/100-bed-critical-care-block-opened-at-erode-government-medical-college-hospital/article71715163.ece",
     "published": "2026-11-18",
@@ -105,17 +113,9 @@
    },
    {
     "kind": "city",
-    "title": "Coimbatore startup raises seed funding",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/coimbatore-startup-raises-seed-funding/article71712372.ece",
-    "published": "2026-11-17",
-    "source": "The Hindu",
-    "score": 2
-   },
-   {
-    "kind": "city",
-    "title": "10-day Nilgiris Book Festival to begin on November 27",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/10-day-nilgiris-book-festival-to-begin-on-november-27/article71711131.ece",
-    "published": "2026-11-17",
+    "title": "Garbage cleared from reserve forest abutting hill temple near Coimbatore after video of elephant eating food waste emerges",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/garbage-cleared-from-reserve-forest-abutting-hill-temple-near-coimbatore-after-video-of-elephant-eating-food-waste-emerges/article71724890.ece",
+    "published": "2026-11-20",
     "source": "The Hindu",
     "score": 2
    },
@@ -154,7 +154,7 @@
   ]
  },
  "quote": {
-  "text": "Learn thoroughly what should be learnt, and then live by that learning.",
-  "author": "Thirukkural, Kural 391 (translation)"
+  "text": "As deep as you dig a well in the sand, so much water springs; as much as you learn, so much wisdom flows.",
+  "author": "Thirukkural, Kural 396 (translation)"
  }
 }
