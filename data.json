@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:46:13.031877+05:30",
+ "updated": "2026-11-22T12:20:32.983084+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -97,22 +97,6 @@
    },
    {
     "kind": "city",
-    "title": "₹21-crore hostel building inaugurated at Government College of Technology in Coimbatore",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/21-crore-hostel-building-inaugurated-at-government-college-of-technology-in-coimbatore/article71715570.ece",
-    "published": "2026-11-18",
-    "source": "The Hindu",
-    "score": 3
-   },
-   {
-    "kind": "city",
-    "title": "Apparel industry sees sign of export revival",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/apparel-industry-sees-sign-of-export-revival/articleshow/135834483.cms",
-    "published": null,
-    "source": "Times of India",
-    "score": 2
-   },
-   {
-    "kind": "city",
     "title": "Garbage cleared from reserve forest abutting hill temple near Coimbatore after video of elephant eating food waste emerges",
     "url": "https://www.thehindu.com/news/cities/Coimbatore/garbage-cleared-from-reserve-forest-abutting-hill-temple-near-coimbatore-after-video-of-elephant-eating-food-waste-emerges/article71724890.ece",
     "published": "2026-11-20",
@@ -121,9 +105,9 @@
    },
    {
     "kind": "city",
-    "title": "Forest Department finds steel wire fence effective in reducing human-elephant conflict",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/forest-department-finds-steel-wire-fence-effective-in-reducing-human-elephant-conflict-in-coimbatore/article71715936.ece",
-    "published": "2026-11-18",
+    "title": "Conclave by CII Coimbatore Education Panel stresses leveraging technology to transform graduates into industry-ready workforce",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/conclave-by-cii-coimbatore-education-panel-stresses-leveraging-technology-to-transform-graduates-into-industry-ready-workforce/article71728922.ece",
+    "published": "2026-11-21",
     "source": "The Hindu",
     "score": 2
    },
@@ -145,8 +129,24 @@
    },
    {
     "kind": "city",
+    "title": "Traffic diversions announced in Krishnagiri in view of festivals",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/traffic-diversions-announced-in-krishnagiri-in-view-of-festivals/articleshow/136057059.cms",
+    "published": null,
+    "source": "Times of India",
+    "score": 1
+   },
+   {
+    "kind": "city",
     "title": "Showroom ruckus costs TVK functionary his post: Party removes Vadavalli secretary Prakash permanently",
     "url": "https://timesofindia.indiatimes.com/city/coimbatore/showroom-ruckus-costs-tvk-functionary-his-post-vijays-party-removes-vadavalli-secretary-prakash-permanently/articleshow/135965883.cms",
+    "published": null,
+    "source": "Times of India",
+    "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "Railways to run Sabarimala special trains via Podanur in Coimbatore",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/railways-to-run-sabarimala-special-trains-via-podanur-in-coimbatore/articleshow/135934286.cms",
     "published": null,
     "source": "Times of India",
     "score": 1
@@ -154,7 +154,7 @@
   ]
  },
  "quote": {
-  "text": "As deep as you dig a well in the sand, so much water springs; as much as you learn, so much wisdom flows.",
-  "author": "Thirukkural, Kural 396 (translation)"
+  "text": "Learning is the true wealth that never perishes; all other riches are not wealth.",
+  "author": "Thirukkural, Kural 400 (translation)"
  }
 }
