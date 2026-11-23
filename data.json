@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:20:32.983084+05:30",
+ "updated": "2026-11-23T08:15:48.587870+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -89,14 +89,6 @@
    },
    {
     "kind": "city",
-    "title": "100-bed critical care block opened at Erode Government Medical College Hospital",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/100-bed-critical-care-block-opened-at-erode-government-medical-college-hospital/article71715163.ece",
-    "published": "2026-11-18",
-    "source": "The Hindu",
-    "score": 3
-   },
-   {
-    "kind": "city",
     "title": "Garbage cleared from reserve forest abutting hill temple near Coimbatore after video of elephant eating food waste emerges",
     "url": "https://www.thehindu.com/news/cities/Coimbatore/garbage-cleared-from-reserve-forest-abutting-hill-temple-near-coimbatore-after-video-of-elephant-eating-food-waste-emerges/article71724890.ece",
     "published": "2026-11-20",
@@ -150,11 +142,19 @@
     "published": null,
     "source": "Times of India",
     "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "Bharathiar University to hold faculty promotion interviews",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/bharathiar-university-to-hold-faculty-promotion-interviews/articleshow/135932656.cms",
+    "published": null,
+    "source": "Times of India",
+    "score": 1
    }
   ]
  },
  "quote": {
-  "text": "Learning is the true wealth that never perishes; all other riches are not wealth.",
-  "author": "Thirukkural, Kural 400 (translation)"
+  "text": "Whatever you hear, from whomever, wisdom is to discern the truth in it.",
+  "author": "Thirukkural, Kural 423 (translation)"
  }
 }
