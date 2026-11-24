@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T08:15:48.587870+05:30",
+ "updated": "2026-11-24T06:22:14.639913+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -105,19 +105,11 @@
    },
    {
     "kind": "city",
-    "title": "Additional classrooms, laboratories commissioned in LRG Arts College for Women in Tiruppur",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/additional-classrooms-laboratories-commissioned-in-lrg-arts-college-for-women-in-tiruppur/article71721281.ece",
-    "published": "2026-11-19",
-    "source": "The Hindu",
-    "score": 2
-   },
-   {
-    "kind": "city",
-    "title": "Academia–industry conclave in Erode to promote research collaboration",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/academiaindustry-conclave-in-erode-to-promote-research-collaboration/article71719649.ece",
-    "published": "2026-11-19",
-    "source": "The Hindu",
-    "score": 2
+    "title": "Priest’s son electrocuted at temple near Dharmapuri",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/priests-son-electrocuted-at-temple-near-dharmapuri/articleshow/136104319.cms",
+    "published": null,
+    "source": "Times of India",
+    "score": 1
    },
    {
     "kind": "city",
@@ -150,11 +142,19 @@
     "published": null,
     "source": "Times of India",
     "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "Coimbatore corporation launches drive to remove encroachments from Noyyal river’s feeder canal",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/coimbatore-corporation-launches-drive-to-remove-encroachments-from-noyyal-rivers-feeder-canal/articleshow/135928934.cms",
+    "published": null,
+    "source": "Times of India",
+    "score": 1
    }
   ]
  },
  "quote": {
-  "text": "Whatever you hear, from whomever, wisdom is to discern the truth in it.",
-  "author": "Thirukkural, Kural 423 (translation)"
+  "text": "Those who resolve firmly will achieve what they resolve, just as they resolved it.",
+  "author": "Thirukkural, Kural 666 (translation)"
  }
 }
