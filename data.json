@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:22:14.639913+05:30",
+ "updated": "2026-11-25T09:42:59.746357+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -81,18 +81,10 @@
   "city": [
    {
     "kind": "city",
-    "title": "Call to operate special trains to Tiruvannamalai for Karthigai Deepam festival",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/call-to-operate-special-trains-to-tiruvannamalai-for-karthigai-deepam-festival/article71724487.ece",
-    "published": "2026-11-20",
-    "source": "The Hindu",
-    "score": 3
-   },
-   {
-    "kind": "city",
-    "title": "Garbage cleared from reserve forest abutting hill temple near Coimbatore after video of elephant eating food waste emerges",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/garbage-cleared-from-reserve-forest-abutting-hill-temple-near-coimbatore-after-video-of-elephant-eating-food-waste-emerges/article71724890.ece",
-    "published": "2026-11-20",
-    "source": "The Hindu",
+    "title": "Coimbatore corporation announces video competition on rainwater harvesting",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/coimbatore-corporation-announces-video-competition-on-rainwater-harvesting/articleshow/136136156.cms",
+    "published": null,
+    "source": "Times of India",
     "score": 2
    },
    {
@@ -100,6 +92,14 @@
     "title": "Conclave by CII Coimbatore Education Panel stresses leveraging technology to transform graduates into industry-ready workforce",
     "url": "https://www.thehindu.com/news/cities/Coimbatore/conclave-by-cii-coimbatore-education-panel-stresses-leveraging-technology-to-transform-graduates-into-industry-ready-workforce/article71728922.ece",
     "published": "2026-11-21",
+    "source": "The Hindu",
+    "score": 2
+   },
+   {
+    "kind": "city",
+    "title": "Train services to be partially cancelled",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/train-services-to-be-partially-cancelled/article71737896.ece",
+    "published": "2026-11-24",
     "source": "The Hindu",
     "score": 2
    },
@@ -154,7 +154,7 @@
   ]
  },
  "quote": {
-  "text": "Those who resolve firmly will achieve what they resolve, just as they resolved it.",
-  "author": "Thirukkural, Kural 666 (translation)"
+  "text": "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.",
+  "author": "Dr. A. P. J. Abdul Kalam"
  }
 }
