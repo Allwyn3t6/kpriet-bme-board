@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:42:59.746357+05:30",
+ "updated": "2026-11-26T13:49:59.483363+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -61,12 +61,6 @@
   "events": [
    {
     "kind": "kpriet_event",
-    "title": "Inaugural Ceremony Industry sponsored Centre of Excellence for Product Development Centre: Vertex",
-    "url": "https://www.kpriet.ac.in/happenings/5301/inaugural-ceremony-industry-sponsored-centre-of-excellence-for-product-development-centre-vertex",
-    "published": "2026-11-25"
-   },
-   {
-    "kind": "kpriet_event",
     "title": "From Classroom to Industry: Skills for Future Chemical Engineers",
     "url": "https://www.kpriet.ac.in/happenings/4634/from-classroom-to-industry-skills-for-future-chemical-engineers",
     "published": "2027-02-27"
@@ -81,18 +75,18 @@
   "city": [
    {
     "kind": "city",
+    "title": "Wildlife, forests, and culture in Gudalur: Sculptures, stories, and interactive workshops",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/wildlife-forests-and-culture-in-gudalur-sculptures-stories-and-interactive-workshops/article71719217.ece",
+    "published": "2026-11-25",
+    "source": "The Hindu",
+    "score": 3
+   },
+   {
+    "kind": "city",
     "title": "Coimbatore corporation announces video competition on rainwater harvesting",
     "url": "https://timesofindia.indiatimes.com/city/coimbatore/coimbatore-corporation-announces-video-competition-on-rainwater-harvesting/articleshow/136136156.cms",
     "published": null,
     "source": "Times of India",
-    "score": 2
-   },
-   {
-    "kind": "city",
-    "title": "Conclave by CII Coimbatore Education Panel stresses leveraging technology to transform graduates into industry-ready workforce",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/conclave-by-cii-coimbatore-education-panel-stresses-leveraging-technology-to-transform-graduates-into-industry-ready-workforce/article71728922.ece",
-    "published": "2026-11-21",
-    "source": "The Hindu",
     "score": 2
    },
    {
@@ -102,6 +96,14 @@
     "published": "2026-11-24",
     "source": "The Hindu",
     "score": 2
+   },
+   {
+    "kind": "city",
+    "title": "Election Literacy Club district-level competitions held in Coimbatore, Tirupur",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/election-literacy-club-district-level-competitions-held-in-coimbatore-tirupur/articleshow/136166753.cms",
+    "published": null,
+    "source": "Times of India",
+    "score": 1
    },
    {
     "kind": "city",
@@ -129,32 +131,24 @@
    },
    {
     "kind": "city",
-    "title": "Railways to run Sabarimala special trains via Podanur in Coimbatore",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/railways-to-run-sabarimala-special-trains-via-podanur-in-coimbatore/articleshow/135934286.cms",
-    "published": null,
-    "source": "Times of India",
+    "title": "AYUSH doctors found administering allopathic treatment at Hosur multispeciality hospital",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/ayush-doctors-found-administering-allopathic-treatment-at-hosur-multispeciality-hospital/article71735881.ece",
+    "published": "2026-11-23",
+    "source": "The Hindu",
     "score": 1
    },
    {
     "kind": "city",
-    "title": "Bharathiar University to hold faculty promotion interviews",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/bharathiar-university-to-hold-faculty-promotion-interviews/articleshow/135932656.cms",
-    "published": null,
-    "source": "Times of India",
-    "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "Coimbatore corporation launches drive to remove encroachments from Noyyal river’s feeder canal",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/coimbatore-corporation-launches-drive-to-remove-encroachments-from-noyyal-rivers-feeder-canal/articleshow/135928934.cms",
-    "published": null,
-    "source": "Times of India",
+    "title": "Animal Husbandry Department steps up vigil at border checkposts in Coimbatore in view of bird flu cases in Keralam",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/animal-husbandry-department-steps-up-vigil-at-border-checkposts-in-coimbatore-in-view-of-bird-flu-cases-in-keralam/article71735940.ece",
+    "published": "2026-11-23",
+    "source": "The Hindu",
     "score": 1
    }
   ]
  },
  "quote": {
-  "text": "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.",
+  "text": "Excellence is a continuous process and not an accident.",
   "author": "Dr. A. P. J. Abdul Kalam"
  }
 }
