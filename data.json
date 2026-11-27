@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:49:59.483363+05:30",
+ "updated": "2026-11-27T07:41:06.710665+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -41,6 +41,12 @@
   "stories": [
    {
     "kind": "kpriet_story",
+    "title": "SCIENCE SPARK – SCHOOL SCIENCE ENRICHMENT PROGRAMME",
+    "url": "https://www.kpriet.ac.in/stories/5327/science-spark-school-science-enrichment-programme",
+    "published": "2026-11-24"
+   },
+   {
+    "kind": "kpriet_story",
     "title": "Awareness Programme on Essay Writing and Quiz Competition on 14.11.2026",
     "url": "https://www.kpriet.ac.in/stories/5282/awareness-programme-on-essay-writing-and-quiz-competition-on-14112026",
     "published": "2026-11-14"
@@ -50,12 +56,6 @@
     "title": "Cyber security Awareness: Industry Trends & Career Insights",
     "url": "https://www.kpriet.ac.in/stories/5277/cyber-security-awareness-industry-trends-career-insights",
     "published": "2026-11-13"
-   },
-   {
-    "kind": "kpriet_story",
-    "title": "Post Survey on Splitting Machine for Fine Korai Grass to Weave Very Fine Mats at Rasipalayam Village",
-    "url": "https://www.kpriet.ac.in/stories/5267/post-survey-on-splitting-machine-for-fine-korai-grass-to-weave-very-fine-mats-at-rasipalayam-village",
-    "published": "2026-11-04"
    }
   ],
   "events": [
@@ -115,22 +115,6 @@
    },
    {
     "kind": "city",
-    "title": "Traffic diversions announced in Krishnagiri in view of festivals",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/traffic-diversions-announced-in-krishnagiri-in-view-of-festivals/articleshow/136057059.cms",
-    "published": null,
-    "source": "Times of India",
-    "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "Showroom ruckus costs TVK functionary his post: Party removes Vadavalli secretary Prakash permanently",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/showroom-ruckus-costs-tvk-functionary-his-post-vijays-party-removes-vadavalli-secretary-prakash-permanently/articleshow/135965883.cms",
-    "published": null,
-    "source": "Times of India",
-    "score": 1
-   },
-   {
-    "kind": "city",
     "title": "AYUSH doctors found administering allopathic treatment at Hosur multispeciality hospital",
     "url": "https://www.thehindu.com/news/cities/Coimbatore/ayush-doctors-found-administering-allopathic-treatment-at-hosur-multispeciality-hospital/article71735881.ece",
     "published": "2026-11-23",
@@ -144,11 +128,27 @@
     "published": "2026-11-23",
     "source": "The Hindu",
     "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "Union Minister for Textiles reviews textile projects in Tamil Nadu",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/union-minister-for-textiles-reviews-textile-projects-in-tamil-nadu/article71739227.ece",
+    "published": "2026-11-24",
+    "source": "The Hindu",
+    "score": 1
+   },
+   {
+    "kind": "city",
+    "title": "Three-and-a-half years later, multi-level parking near Anandha Bridge remains non-functional",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/three-and-a-half-years-later-multi-level-parking-near-anandha-bridge-remains-non-functional/article71737941.ece",
+    "published": "2026-11-24",
+    "source": "The Hindu",
+    "score": 1
    }
   ]
  },
  "quote": {
-  "text": "Excellence is a continuous process and not an accident.",
+  "text": "If you want to shine like a sun, first burn like a sun.",
   "author": "Dr. A. P. J. Abdul Kalam"
  }
 }
