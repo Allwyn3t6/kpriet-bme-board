@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:41:06.710665+05:30",
+ "updated": "2026-11-28T08:11:33.910157+05:30",
  "status": {
   "KPRIET": "ok",
   "The Hindu": "ok",
@@ -83,6 +83,14 @@
    },
    {
     "kind": "city",
+    "title": "5th Nilgiris book festival inaugurated",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/5th-nilgiris-book-festival-inaugurated/article71750144.ece",
+    "published": "2026-11-27",
+    "source": "The Hindu",
+    "score": 3
+   },
+   {
+    "kind": "city",
     "title": "Coimbatore corporation announces video competition on rainwater harvesting",
     "url": "https://timesofindia.indiatimes.com/city/coimbatore/coimbatore-corporation-announces-video-competition-on-rainwater-harvesting/articleshow/136136156.cms",
     "published": null,
@@ -91,9 +99,9 @@
    },
    {
     "kind": "city",
-    "title": "Train services to be partially cancelled",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/train-services-to-be-partially-cancelled/article71737896.ece",
-    "published": "2026-11-24",
+    "title": "TNAU team bags top honours at StartupTN’s GREENOVATE 2026",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/tnau-team-bags-top-honours-at-startuptns-greenovate-2026/article71750660.ece",
+    "published": "2026-11-27",
     "source": "The Hindu",
     "score": 2
    },
@@ -107,48 +115,40 @@
    },
    {
     "kind": "city",
-    "title": "Priest’s son electrocuted at temple near Dharmapuri",
-    "url": "https://timesofindia.indiatimes.com/city/coimbatore/priests-son-electrocuted-at-temple-near-dharmapuri/articleshow/136104319.cms",
-    "published": null,
-    "source": "Times of India",
-    "score": 1
-   },
-   {
-    "kind": "city",
-    "title": "AYUSH doctors found administering allopathic treatment at Hosur multispeciality hospital",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/ayush-doctors-found-administering-allopathic-treatment-at-hosur-multispeciality-hospital/article71735881.ece",
-    "published": "2026-11-23",
+    "title": "Mobile wildlife forensic lab to be stationed at Pethikuttai in Coimbatore district",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/mobile-wildlife-forensic-lab-to-be-stationed-at-pethikuttai-in-coimbatore-district/article71743286.ece",
+    "published": "2026-11-25",
     "source": "The Hindu",
     "score": 1
    },
    {
     "kind": "city",
-    "title": "Animal Husbandry Department steps up vigil at border checkposts in Coimbatore in view of bird flu cases in Keralam",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/animal-husbandry-department-steps-up-vigil-at-border-checkposts-in-coimbatore-in-view-of-bird-flu-cases-in-keralam/article71735940.ece",
-    "published": "2026-11-23",
+    "title": "Primary Agricultural Cooperative Credit Societies to function in Coimbatore on Nov. 28 and 29. to help with loan waiver",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/primary-agricultural-cooperative-credit-societies-to-function-in-coimbatore-on-nov-28-and-29-to-help-with-loan-waiver/article71742738.ece",
+    "published": "2026-11-25",
     "source": "The Hindu",
     "score": 1
    },
    {
     "kind": "city",
-    "title": "Union Minister for Textiles reviews textile projects in Tamil Nadu",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/union-minister-for-textiles-reviews-textile-projects-in-tamil-nadu/article71739227.ece",
-    "published": "2026-11-24",
+    "title": "CPI(M) urges Tiruppur administration to conduct special medical camps to control dengue",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/cpim-urges-tiruppur-administration-to-conduct-special-medical-camps-to-control-dengue/article71742878.ece",
+    "published": "2026-11-25",
     "source": "The Hindu",
     "score": 1
    },
    {
     "kind": "city",
-    "title": "Three-and-a-half years later, multi-level parking near Anandha Bridge remains non-functional",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/three-and-a-half-years-later-multi-level-parking-near-anandha-bridge-remains-non-functional/article71737941.ece",
-    "published": "2026-11-24",
+    "title": "Paralympic sports complex construction at a snail’s pace in Coimbatore",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/paralympic-sports-complex-construction-at-a-snails-pace-in-coimbatore/article71742393.ece",
+    "published": "2026-11-25",
     "source": "The Hindu",
     "score": 1
    }
   ]
  },
  "quote": {
-  "text": "If you want to shine like a sun, first burn like a sun.",
-  "author": "Dr. A. P. J. Abdul Kalam"
+  "text": "Arise, awake, and stop not till the goal is reached.",
+  "author": "Swami Vivekananda"
  }
 }
